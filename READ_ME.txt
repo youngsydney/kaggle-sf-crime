@@ -15,6 +15,8 @@ Required Libraries:
   - numpy
   - scipy
 
+Download the dataset from Kaggle: https://www.kaggle.com/c/sf-crime
+
 How to Run:
 	Navigate to the project directory and type "python run.py" to compile and run
   the program. Please be aware the Decision Tree and Random Forest have the
